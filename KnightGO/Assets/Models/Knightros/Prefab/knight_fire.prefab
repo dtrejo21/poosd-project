@@ -235,6 +235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 416546}
   - component: {fileID: 9569962}
+  - component: {fileID: 9171939296170146498}
   m_Layer: 0
   m_Name: knight_fire
   m_TagString: Untagged
@@ -280,6 +281,24 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &9171939296170146498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 121574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76edc035b91f5f8479b9e84df1c74488, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRate: 0.1
+  catchRate: 0.1
+  attack: 0
+  defense: 0
+  health: 100
+  type: 1
 --- !u!1 &131548
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,7 +391,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 13be91ba3e8670c469e5d208da451c12, type: 2}
+  - {fileID: 2100000, guid: 05afc24a83fc5af46a41e10c766a965e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -616,7 +635,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 13be91ba3e8670c469e5d208da451c12, type: 2}
+  - {fileID: 2100000, guid: 05afc24a83fc5af46a41e10c766a965e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -890,7 +909,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 13be91ba3e8670c469e5d208da451c12, type: 2}
+  - {fileID: 2100000, guid: 05afc24a83fc5af46a41e10c766a965e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
