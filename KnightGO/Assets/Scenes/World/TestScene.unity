@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -308,6 +308,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1f6e516367bf184c81728d140faa57b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  accessKnightros:
+  - {fileID: 5016276318576836806, guid: 01140721110e2e74db51301a7d49dfbd, type: 3}
+  - {fileID: 8826801160931209993, guid: db62dbd2ab666bc46a6e0a8176ca045a, type: 3}
+  - {fileID: 9171939296170146498, guid: 10a9f3631bd7ac94286afbaffe980359, type: 3}
+  - {fileID: 7693539799810743320, guid: ef50608855461ee4e88eda1e57ee01c5, type: 3}
+  - {fileID: 1466639761119996965, guid: c03149fb3f392fc488752fab120ce64e, type: 3}
+  player: {fileID: 4781883}
+  delay: 100
+  initKnightros: 10
+  min: 5
+  max: 50
 --- !u!1 &137357532
 GameObject:
   m_ObjectHideFlags: 0
