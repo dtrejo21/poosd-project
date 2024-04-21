@@ -14,6 +14,18 @@ public class KnightSpawn : Singleton<KnightSpawn>
     [SerializeField] private float min = 5.0f;
     [SerializeField] private float max = 50.0f;
 
+    private List<Knightro> liveKnightros = new List<Knightro>();
+    private Knightro selectedKnightro;
+
+    public List<Knightro> LiveKnightros
+    {
+        get { return liveKnightros; }
+    }
+
+    public Knightro SelectedKnightro
+    {
+        get { return selectedKnightro; }
+    }
 
     private void Awake()
     {
@@ -27,8 +39,13 @@ public class KnightSpawn : Singleton<KnightSpawn>
         float x = player.transform.position.x + Generate();
         float y = player.transform.position.y;
         float z = player.transform.position.z + Generate();
-        Instantiate(accessKnightros[index], new Vector3(x, y, z), Quaternion.identity);
+        liveKnightros.Add(Instantiate(accessKnightros[index], new Vector3(x, y, z), Quaternion.identity));
 
+    }
+
+    public void KnightroWasSelected(Knightro knightro)
+    {
+        selectedKnightro = knightro;
     }
 
     private float Generate()
