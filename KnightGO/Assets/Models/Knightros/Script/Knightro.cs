@@ -19,9 +19,21 @@ public class Knightro : MonoBehaviour
     public int Defense { get { return defense; } }
     public int Health { get { return health; } }
 
+    private void Start()
+    {
+        DontDestroyOnLoad(this);
+    }
+
     private void OnMouseDown()
     {
-
+        KGSceneManager[] managers = FindObjectsOfType<KGSceneManager>();
+        foreach (KGSceneManager kgSceneManager in managers)
+        {
+            if (kgSceneManager.gameObject.activeSelf)
+            {
+                kgSceneManager.knightTapped(this.gameObject);
+            }
+        }
     }
 
     public bool IsStrongAgainst(knightType enemyType)
