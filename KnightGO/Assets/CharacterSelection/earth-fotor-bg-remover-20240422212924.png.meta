@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: ac17d746f75314160adbf25bbe239e01
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed65900c711347beac56d0f4d93b466
+      internalID: 709613280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb2e76a449f45ddbede2baf4027e09
+      internalID: -1922369259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad68211ec49d47f9bb3443d49729c4e
+      internalID: 48971644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd8c2c1352344e8aa6be0cc19fbc4f
+      internalID: -380439555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bff5b4ba3b4b34a291f4049dddfb6
+      internalID: -915837650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c683d1a6d64a0ea291d37af847dac
+      internalID: 1024738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c390d249f75f4e9f9949208380d6879
+      internalID: 1929821126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834465e728024973a544a50f7a570f0
+      internalID: -1325600402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec1a5c63747347ebb3bff564460080e
+      internalID: -442378063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcb74ce8cb042c5bef4de1c3bd0100
+      internalID: -1939048812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf82de46f9a7f40e0b1aeaee4f14c33b
+      internalID: 957762095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f19589a61a84bc78fcb25dc9133367
+      internalID: -116637312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0591c4ba9f4d422da8d3bd022ffbc3c
+      internalID: -657496539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e097af66e1b574830a12bb5d5763230d
+      internalID: -570099587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68104b6ac3ae486d8820a763b64cc53
+      internalID: 1104256114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e166e9ddbec40028d40407882c48f2
+      internalID: 1783688567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5457723d04061445c8a738fe164d7b0e
+      internalID: 1936372396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d916a7f55449189591ce0a45cfca4
+      internalID: 1988364600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f8d42c8e3744e28af5f455dfb86681
+      internalID: -2064514763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772f22f0fbb04adb848dfa9fcee921a
+      internalID: -678860182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a2d977e07c44c4a64ce5fd6b9bb47
+      internalID: -881035615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2f8e1b7f884ee1b430434a0a467f0
+      internalID: -1463338744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9d68fcb21048e38e59a4ccc2fecd0
+      internalID: 415931489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b7963ca938244d5a4ce9675340eccc
+      internalID: -1125967499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2024114e97304b458f5d5a2dcb96bf8
+      internalID: 1190513284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b19c6abf1be4913885d113640a83b1
+      internalID: -1749513094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb526ff0d0e4a0a9dd07a1fee18433
+      internalID: -1011165929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6a674aa8c849f6878a317d6ea1b6a
+      internalID: -1472948526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274713a7e8524f3db226f8996f13424
+      internalID: -1444540921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d35a0e89334f309439121f3e6ef31
+      internalID: 1263304840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635f191483354c189372bbd6d5f277f
+      internalID: 749288511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e5b488a3ff543daa47fac2fbe5e04b
+      internalID: -1073515026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d326994091542598f98e6ad2a67f01
+      internalID: 1916909328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earth-fotor-bg-remover-20240422212924_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395d3d5ce9b842bb80de8592d83571c
+      internalID: 647876711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9dfda9d8eabc2404686558e676445d85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      earth-fotor-bg-remover-20240422212924_0: 709613280
+      earth-fotor-bg-remover-20240422212924_1: -1922369259
+      earth-fotor-bg-remover-20240422212924_10: 957762095
+      earth-fotor-bg-remover-20240422212924_11: -116637312
+      earth-fotor-bg-remover-20240422212924_12: -657496539
+      earth-fotor-bg-remover-20240422212924_13: -570099587
+      earth-fotor-bg-remover-20240422212924_14: 1104256114
+      earth-fotor-bg-remover-20240422212924_15: 1783688567
+      earth-fotor-bg-remover-20240422212924_16: 1936372396
+      earth-fotor-bg-remover-20240422212924_17: 1988364600
+      earth-fotor-bg-remover-20240422212924_18: -2064514763
+      earth-fotor-bg-remover-20240422212924_19: -678860182
+      earth-fotor-bg-remover-20240422212924_2: 48971644
+      earth-fotor-bg-remover-20240422212924_20: -881035615
+      earth-fotor-bg-remover-20240422212924_21: -1463338744
+      earth-fotor-bg-remover-20240422212924_22: 415931489
+      earth-fotor-bg-remover-20240422212924_23: -1125967499
+      earth-fotor-bg-remover-20240422212924_24: 1190513284
+      earth-fotor-bg-remover-20240422212924_25: -1749513094
+      earth-fotor-bg-remover-20240422212924_26: -1011165929
+      earth-fotor-bg-remover-20240422212924_27: -1472948526
+      earth-fotor-bg-remover-20240422212924_28: -1444540921
+      earth-fotor-bg-remover-20240422212924_29: 1263304840
+      earth-fotor-bg-remover-20240422212924_3: -380439555
+      earth-fotor-bg-remover-20240422212924_30: 749288511
+      earth-fotor-bg-remover-20240422212924_31: -1073515026
+      earth-fotor-bg-remover-20240422212924_32: 1916909328
+      earth-fotor-bg-remover-20240422212924_33: 647876711
+      earth-fotor-bg-remover-20240422212924_4: -915837650
+      earth-fotor-bg-remover-20240422212924_5: 1024738767
+      earth-fotor-bg-remover-20240422212924_6: 1929821126
+      earth-fotor-bg-remover-20240422212924_7: -1325600402
+      earth-fotor-bg-remover-20240422212924_8: -442378063
+      earth-fotor-bg-remover-20240422212924_9: -1939048812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
