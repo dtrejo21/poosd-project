@@ -11,30 +11,13 @@ public class Knightro : MonoBehaviour
     [SerializeField] private int attack = 0;
     [SerializeField] private int defense = 0;
     [SerializeField] private int health = 100;
-    [SerializeField] private knightType type;
+    [SerializeField] private knightType type; 
 
     public float SpawnRate { get { return spawnRate; } }
     public float CatchRate { get { return catchRate; } }
     public int Attack { get { return attack; } }
     public int Defense { get { return defense; } }
     public int Health { get { return health; } }
-
-    public void setType(int type) 
-    {  
-        switch(type)
-        {
-            case 0:
-                this.type = knightType.Water; break;
-            case 1: 
-                this.type = knightType.Fire; break;
-            case 2: 
-                this.type = knightType.Earth; break;
-            case 3:
-                this.type = knightType.Gold; break;
-            default:
-                this.type = knightType.Air; break;
-        }
-    }
 
     private void Start()
     {
@@ -53,10 +36,8 @@ public class Knightro : MonoBehaviour
         }
     }
 
-    public bool IsStrongAgainst(Knightro enemy)
+    public bool IsStrongAgainst(knightType enemyType)
     {
-        knightType type = this.type;
-        knightType enemyType = enemy.type;
         switch (type)
         {
             case knightType.Water:
@@ -74,10 +55,8 @@ public class Knightro : MonoBehaviour
         }
     }
 
-    public bool IsWeakAgainst(Knightro enemy)
+    public bool IsWeakAgainst(knightType enemyType)
     {
-        knightType type = this.type;
-        knightType enemyType = enemy.type;
         switch (type)
         {
             case knightType.Water:
