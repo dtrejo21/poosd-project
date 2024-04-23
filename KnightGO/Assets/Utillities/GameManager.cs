@@ -8,12 +8,7 @@ public class GameManager : Singleton<GameManager>
     [SerializeField] private Player currentPlayer;
 
     public Player CurrentPlayer
-    { 
-        get { return currentPlayer; }
-    }
-
-    private void Awake()
     {
-        Assert.IsNotNull(currentPlayer);
+        get { return currentPlayer; }
     }
 }
