@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ActualBattle/Lost.unity
     guid: c3088edd6fc7b4c498c45ec5980c3e61
+  - enabled: 1
+    path: Assets/Scenes/MenuUpdate.unity
+    guid: 9a604288c09a0704b88e614b048f2642
+  - enabled: 1
+    path: Assets/Scenes/MenuUpdate 1.unity
+    guid: 82df9fe5316ad5e418b263db1e521d99
   m_configObjects: {}
