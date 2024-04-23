@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Capture/Capture.unity
+    guid: 11f48ffeaaa3de04cbd37116759039d7
+  - enabled: 1
+    path: Assets/Scenes/World/TestScene.unity
+    guid: 1cbb3a0984f8cb940bbd0d7e77518ee0
+  - enabled: 1
+    path: Assets/Scenes/Battle/Battle.unity
+    guid: 4734146b902557b4d9577f5428c3c3bc
+  - enabled: 1
+    path: Assets/Scenes/ActualBattle/ABattle.unity
+    guid: dbdd16e9a1dbad340b09d32c33c0e852
+  - enabled: 1
+    path: Assets/Scenes/ActualBattle/Win.unity
+    guid: c154966fca6cb024aba188068aa9c346
+  - enabled: 1
+    path: Assets/Scenes/ActualBattle/Lost.unity
+    guid: c3088edd6fc7b4c498c45ec5980c3e61
+  - enabled: 1
+    path: Assets/Scenes/MenuUpdate.unity
+    guid: 9a604288c09a0704b88e614b048f2642
+  - enabled: 1
+    path: Assets/Scenes/MenuUpdate 1.unity
+    guid: 82df9fe5316ad5e418b263db1e521d99
   m_configObjects: {}
